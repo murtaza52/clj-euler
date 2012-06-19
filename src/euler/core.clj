@@ -1,3 +1,7 @@
+;;This project implements Project euler problems in clojure
+;;
+;;A fun way to learn clojure
+
 (ns euler.core)
 
 (defn -main
